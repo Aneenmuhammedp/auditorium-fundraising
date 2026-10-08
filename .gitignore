@@ -1,0 +1,19 @@
+# Environment / configuration
+.env
+config.php
+
+# Dependencies
+/vendor/
+
+# Database
+database.sql
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
